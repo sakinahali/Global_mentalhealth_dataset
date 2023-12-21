@@ -8,8 +8,7 @@ The dataset was a single dataset obtained from Kaggle which contains mental heal
 
 ### **Methodology**
 
-The guideline of CRISP-DM, an iterative open-source data methodology was used. Specific steps adopted are summarised in the flowchart below:
-The Python libraries used in this project were Pandas, Numpy, Geopandas, Plotly, and Scikit Learn. Pandas and Numpy were used for data cleaning, Plotly was used for the data visualization and Scikit Learn was used to build a linear regression model.
+The guideline of CRISP-DM, an iterative open-source data methodology was used. The Python libraries used in this project were Pandas, Numpy, Geopandas, Plotly, and Scikit Learn. Pandas and Numpy were used for data cleaning, Plotly was used for the data visualization and Scikit Learn was used to build a linear regression model.
 
 ### **Data Exploration**
 ### **Exploring Common Mental Health Disorders Across Countries and Years**
