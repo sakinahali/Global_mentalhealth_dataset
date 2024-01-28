@@ -14,8 +14,5 @@ The guideline of CRISP-DM, an iterative open-source data methodology was used. T
 ### **Exploring Common Mental Health Disorders Across Countries and Years**
 ![bubbleplot](https://github.com/sakinahali/sakinahali.github.io/blob/master/Bubbleplot.png)
 
-![Depression](https://github.com/sakinahali/Global_mentalhealth_dataset/blob/main/Depression_map.png)
-
-![Schizophrenia](https://github.com/sakinahali/Global_mentalhealth_dataset/blob/main/Schizophrenia_map.png)
 
 Visualization of the other maps can be viewed here [Google Collab](https://colab.research.google.com/drive/111mFMLLVZLuMN1gBrurkvfGGLzRXnMMj?authuser=0#scrollTo=2u7fwpBzf2-r)
