@@ -13,80 +13,10 @@ The guideline of CRISP-DM, an iterative open-source data methodology was used. T
 ### **Data Exploration**
 ### **Exploring Common Mental Health Disorders Across Countries and Years**
 ![bubbleplot](https://github.com/sakinahali/sakinahali.github.io/blob/master/Bubbleplot.png)
-
-Visualization of the other maps can be viewed here ![Google Collab](https://colab.research.google.com/github/sakinahali/Global_mentalhealth_dataset/blob/main/Analysis_of_Global_Trends_in_Mental_Health_Disorder_Using_ML.ipynb)
+Visualization of the other maps can be viewed here [Google Collab](https://colab.research.google.com/drive/111mFMLLVZLuMN1gBrurkvfGGLzRXnMMj?authuser=0#scrollTo=2u7fwpBzf2-r)
 
 Project Code: ![GitHub](https://github.com/sakinahali/Global_mentalhealth_dataset)
 
 Project Article: ![Article](https://sakinahai.hashnode.dev/analysis-of-global-trends-in-mental-health-disorder-using-linear-regression)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Visualization of the other maps can be viewed here [Google Collab](https://colab.research.google.com/drive/111mFMLLVZLuMN1gBrurkvfGGLzRXnMMj?authuser=0#scrollTo=2u7fwpBzf2-r)
